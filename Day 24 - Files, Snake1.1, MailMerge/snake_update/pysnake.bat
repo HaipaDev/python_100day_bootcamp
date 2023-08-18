@@ -1,2 +1,3 @@
 @echo off
-python "%~dp0/main.py"
+start /B pythonw "%~dp0/main.py"
+exit
