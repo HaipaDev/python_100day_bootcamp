@@ -1,0 +1,6 @@
+{
+    "dataset": "jlpt_n5_normalized.csv",
+    "time_before_flip": 3,
+    "show_readings_on_front": true,
+    "italic_readings_font": false
+}
